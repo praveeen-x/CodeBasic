@@ -1,0 +1,10 @@
+// the first program has to be the hello world
+
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    cout << "Hello, World!";
+    return 0;
+}
