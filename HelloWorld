@@ -3,9 +3,15 @@
 #include <iostream>
 using namespace std;
 
+
 void main() 
 {   
     clrscr();
     cout << "Hello, World!";
     getch();
+int main() 
+{
+    cout << "Hello World!";    //Removed comma from Hello World
+    return 0;
+
 }
