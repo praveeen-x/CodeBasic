@@ -1,5 +1,6 @@
 # CodeBasic
 The repository is to provide solutions to the basic coding/programming
+//to add two numbers
 #include<iostream.h>
 #include<conio.h>
 void main()
